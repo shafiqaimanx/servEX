@@ -1,5 +1,5 @@
 # servEX
 
 ```bash
-go install -v github.com/Doct3rJohn/servEX@latest
+go install -v github.com/shafiqaimanx/servEX@latest
 ```
