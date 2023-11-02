@@ -1,4 +1,4 @@
-module github.com/shafiqaimanx/servEX
+module github.com/Doct3rJohn/servEX
 
 go 1.21.0
 
